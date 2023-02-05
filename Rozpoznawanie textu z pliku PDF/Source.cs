@@ -3,3 +3,4 @@
 
 //piata z trzeciej
 //szosta z piatej
+//siodma z szudtej
