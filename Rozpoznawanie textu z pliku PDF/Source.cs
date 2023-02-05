@@ -2,6 +2,3 @@
 //druga inia kodu test repo only
 
 //piata z trzeciej
-//szosta z piatej
-//siodma z szudtej
-//cX
