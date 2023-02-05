@@ -4,4 +4,6 @@
 //piata z trzeciej
 //szosta z piatej
 //siodma z szudtej
-//cXSXXX
+//cXSXXXWWW
+
+//222
